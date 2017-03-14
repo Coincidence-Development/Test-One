@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+
+
+# Unreal Generated Files - Evan VanOsdol 3/14/2017
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+# VS Generated Files
+*VC.db
